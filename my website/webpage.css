@@ -1,0 +1,304 @@
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+body {
+
+    background-color: black;
+}
+
+* {
+    color: white;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 56px;
+
+}
+
+
+p {
+    text-align: center;
+}
+
+
+
+
+.ach {
+    display: flex;
+    justify-content: space-evenly;
+    height: 130px;
+    width: 800px;
+    background-color: lightgrey;
+
+
+    position: relative;
+    bottom: 130px;
+
+
+
+
+    align-items: center;
+    margin-left: 600px;
+    margin-top: 200px;
+
+
+}
+
+.flexitem {
+    color: Black;
+
+
+    text-align: center;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 29px;
+}
+
+
+
+.bargraphin {
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+}
+
+.energy {
+
+
+
+    float: left;
+
+}
+
+
+.p4 {
+    text-align: justify;
+}
+
+H2 {
+    text-align: center;
+
+}
+
+.p4 {
+    position: absolute;
+    top: 300px;
+    right: 50px;
+    height: 900px;
+
+
+
+    width: 400px;
+}
+
+
+.csk {
+    position: relative;
+    top: 8px;
+    bottom: 31px;
+    left: 200px;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 140px;
+    /*  Background-color:grey;*/
+    z-index: 1;
+    left: 0px;
+    column-gap: 5px;
+
+    .navin {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    height:900px;
+}
+
+.navitem {
+    height: 122px;
+    width: 122px;
+    Background-color: grey;
+    transition: all 4s;
+
+}
+
+.navitem:hover {
+    background-color: Black;
+
+    transform: rotate(45deg);
+}
+
+#photo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-decoration: Underline;
+    text-align: left;
+    margin-left: 29px;
+    margin-bottom: 6px;
+}
+
+.whiteone,
+.whitetwo,
+.whitethree {
+    height: 28px;
+
+    width: 800px;
+
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    margin-left: 600px;
+
+
+
+    background-color: lightgrey;
+}
+
+.greythree {
+
+    background-color: grey;
+    height: 28px;
+
+    width: 570px;
+
+
+}
+
+.ContactContainerin {
+    width: 900px;
+    height: 40px;
+    font-size: 19px;
+    padding: 4px;
+    background-color: lightgrey;
+
+
+
+
+
+
+    margin: 17px 50px;
+}
+
+.ContactContainerin:hover {
+
+
+
+    background-color: white;
+}
+
+.greyone,
+.greytwo {
+    height: 28px;
+
+    width: 800px;
+    background-color: grey;
+}
+
+.bargraph {
+    position: relative;
+    top: 50px;
+
+}
+
+
+footer {
+    font-size: 29px;
+    margin-left: 50px;
+    color: lightgrey;
+}
+
+.grid {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grid2 {
+    display: flex;
+
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+.aboutmsd {
+    text-align: justify;
+    margin: 50px;
+    margin-top: 16px;
+
+
+    margin-right: 69px;
+
+
+
+
+
+
+    margin-left: 600px;
+
+
+}
+
+.contactbox {
+    height: 500px;
+    width: 1000px;
+    border: 1px solid lightgrey;
+    position: relative;
+
+
+}
+
+.ach:hover {
+    background-color: white;
+}
+
+.wire {
+    margin-top: 50px;
+}
+
+
+
+.twitter:hover {
+    background-color: indigo;
+
+}
+
+.icon {
+    background-color: indigo;
+    font-size: 87px;
+}
+
+.material-symbols-outlined:hover {
+    color: violet;
+}
+
+.ig {
+    color: indigo;
+}
+
+.vscode {
+    Background-color: violet;
+}
+
+.contactContainer {
+    margin: 50px 257px;
+}
+
+a {
+    text-decoration-line: none;
+}
